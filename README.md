@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Gustiviy
-- 👀 I’m interested in life
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on NOTHING (ty)
-- 📫 How to reach me Discord: !Gustiviy!#3871
+- i do BOT
+- https://discord.gg/4wfAgjB35R
+- looking for HELP
 
 <!---
 Gustiviy/Gustiviy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
